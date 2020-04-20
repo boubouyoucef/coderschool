@@ -1,0 +1,180 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+h1 {
+  font-size: 4.6rem;
+  margin-top: 50px auto 0 auto;
+  color: #30475E
+
+}
+h2 {
+  font-size: 2.5rem;
+  color: #30475E
+
+}
+.gatsby{
+
+  width: 250px;
+
+}
+.movie{
+  height: 700px;
+}
+
+.details-gatsby{
+position: relative;
+bottom: 10px;
+
+}
+
+.overview-para{
+font-size: 1.2rem;
+
+}
+.intro{
+width: 50%;
+margin: auto;
+font-size: 120%;
+}
+.contact-me{
+  width: 50%;
+  margin: 40px auto 60px;
+  font-size: 100%;
+}
+.marketingtext{
+  font-size: 150%;
+}
+.online-text{
+  font-size: 150%;
+}
+.java-text{
+  font-size: 130%;
+}
+.web-text{
+  font-size: 110%;
+}
+.copyright {
+  color: #30475E
+}
+
+
+p{
+line-height: 2
+}
+
+hr{
+border: dotted #588DA8 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+
+}
+
+.top-container {
+  background-color: #85A392;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+
+.footer-link {
+	box-shadow: 0px 6px 10px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Josefin Slab', serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:8px 19px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+	&:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+ &:active {
+	position:relative;
+	top:1px;
+}
+ }
+.btn {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:8px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Josefin Slab', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+	hover{
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+ &:active {
+	position:relative;
+	top:1px;
+}
+ }
+
+ .details-gatsby {
+ 	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+ 	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+ 	background-color:#768d87;
+ 	border-radius:8px;
+ 	border:1px solid #566963;
+ 	display:inline-block;
+ 	cursor:pointer;
+ 	color:#ffffff;
+ 	font-family: 'Josefin Slab', serif;
+ 	font-size:15px;
+ 	font-weight:bold;
+ 	padding:10px 20px;
+ 	text-decoration:none;
+ 	text-shadow:0px -1px 0px #2b665e;
+ 	hover{
+ 	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+ 	background-color:#6c7c7c;
+ }
+  &:active {
+ 	position:relative;
+ 	top:1px;
+ }
